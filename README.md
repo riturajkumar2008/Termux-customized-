@@ -1,0 +1,2 @@
+# Termux-customized-
+Educational purpose 
